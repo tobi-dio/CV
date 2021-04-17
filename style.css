@@ -1,0 +1,83 @@
+body{
+    background-color: lightblue;
+    padding:0;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.header{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    /* margin-bottom: 1px; */
+}
+
+.header h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+.header h5{
+    margin:20px 30px ;
+    line-height:1.6em;
+}
+
+.link_info a{
+    text-align: center;
+
+}
+
+a{
+    text-decoration:none;
+    color:blue;
+}
+
+a:hover{
+    color: gold;
+}
+
+section{
+    line-height: 1.6em;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+main{
+    line-height:1.6em;
+}
+
+.xp_1 p{
+text-decoration: underline;
+}
+
+.xp_2 p{
+    text-decoration: underline;
+}
+
+.xp_3 p{
+    text-decoration: underline;
+}
+
+footer{
+    background-color:grey;
+    margin-top: 2px;
+    padding: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.footer_middle{
+    padding:1rem;
+    display:flex;
+    justify-content: space-between;
+}
+
+.footer_bottom{
+word-spacing: 20em;
+text-align: center;
+}
